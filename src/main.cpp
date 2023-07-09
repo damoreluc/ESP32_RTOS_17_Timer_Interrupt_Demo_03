@@ -1,7 +1,7 @@
 /*
  * FreeRTOS Esempio 17: Interrupt differito con semaforo binario.
  *
- * Acquisizione di valori analogici dal canale 34 dell'ADC nella ISR del timer hardware, periodo 100ms;
+ * Acquisizione di valori analogici dal canale 34 dell'ADC nella ISR del timer hardware, periodo 100ms
  * 
  * In un task viene stampato il valore del campione acquisito dalla ISR.
  * 
